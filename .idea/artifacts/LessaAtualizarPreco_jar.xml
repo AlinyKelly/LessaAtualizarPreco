@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LessaAtualizarPreco:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LessaAtualizarPreco_jar</output-path>
+    <root id="archive" name="LessaAtualizarPreco.jar">
+      <element id="module-output" name="LessaAtualizarPreco" />
+    </root>
+  </artifact>
+</component>
